@@ -94,6 +94,8 @@
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-004488?style=plastic&logo=java&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) 
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=plastic&logo=SONARLINT&logoColor=white) 
+![EasyMock](https://img.shields.io/badge/EasyMock-FF6F00?style=plastic&logo=java&logoColor=white)
+
 
 ---
 
