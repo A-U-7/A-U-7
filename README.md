@@ -57,6 +57,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) 
 ![Lombok](https://img.shields.io/badge/Lombok-A4276A?style=plastic&logo=java&logoColor=white) 
 ![MapStruct](https://img.shields.io/badge/MapStruct-6DB33F?style=plastic&logo=java&logoColor=white) 
+![ModelMapper](https://img.shields.io/badge/ModelMapper-0288D1?style=plastic&logo=java&logoColor=white)
+
 
 ---
 
